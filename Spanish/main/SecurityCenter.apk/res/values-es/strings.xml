@@ -720,7 +720,7 @@ No perderás ningún dato de la aplicación."</string>
     <string name="auto_task_default_task_summary_listen_music">Reproduce música y selecciona el tipo de auricular</string>
     <string name="auto_task_default_task_summary_meet">Programe la hora de la reunión y active el modo DND</string>
     <string name="auto_task_default_task_summary_noon_break">Programe la hora de la siesta y active el modo DND</string>
-    <string name="auto_task_default_task_summary_save_power">Encienda el Ahorro de batería cuando la batería sea inferior a %s</string>
+    <string name="auto_task_default_task_summary_save_power">Encienda el Ahorro de batería cuando la batería sea inferior a 30%</string>
     <string name="auto_task_default_task_summary_sleep">Programe la hora de acostarse y personalice el comportamiento del dispositivo</string>
     <string name="auto_task_default_task_summary_watch_video">Abra la aplicación, encienda el Wi-Fi, ajuste el volumen</string>
     <string name="auto_task_default_task_title_driver_car">Conducir</string>
@@ -1178,7 +1178,7 @@ Su operadora puede cobrarle cargos adicionales si vuelve a activar los datos mó
     <string name="deep_power_save_item_title_lock_screen_time">Apaga la pantalla</string>
     <string name="deep_save_memory_clean_summary">Limpiar caché cuando bloquee el dispositivo para evitar que las aplicaciones consuman batería</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Programar hora de encendido/apagado del dispositivo</string>
-    <string name="default_condition_summary">Por ejemplo, \"La batería es inferior a %s\"</string>
+    <string name="default_condition_summary">Por ejemplo, \"La batería es inferior a 20%\"</string>
     <string name="default_condition_title">Agregar condición</string>
     <string name="default_condition_title_continue">Agregar condición</string>
     <string name="default_result_summary">Por ejemplo, \"Desactivar el modo avión\"</string>
